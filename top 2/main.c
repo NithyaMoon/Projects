@@ -1,9 +1,13 @@
 //  main.c
 // This program is written by: Nithya Munagala
 
-//This progam allows customers queue in several lines, upon arrival the cutsomer's time of arrival, last name, and line number where they are standing is printed.  The number of tickets to be purchased by the customers are recorded for one cashier
- 
- //The cashier determines status of all lines by checking who has the fewest tickets out of those front of each line, if two customers have the same ticket size they will choose who comes from a smaller line number
+/*This progam allows customers queue in several lines, upon arrival the cutsomer's time of arrival, 
+last name, and line number where they are standing is printed.  
+The number of tickets to be purchased by the customers are recorded for one cashier
+
+The cashier determines status of all lines by checking who has the fewest tickets out of those front of each line,
+if two customers have the same ticket size they will choose who comes from a smaller line number
+*/
 
 //include libraries
 #include <stdio.h>

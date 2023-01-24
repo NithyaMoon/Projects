@@ -1,4 +1,5 @@
-/* This program is modeled on the cartesian plane to find coordinates of all monsters around you in a city, in the program it sorts the location based on their distance. It idenitifies if their is a monster at a location and if so there is a rank on a sorted list of monsters. 
+/* This program is modeled on the cartesian plane to find coordinates of all monsters around you in a city, in the program it sorts the location 
+based on their distance. It idenitifies if their is a monster at a location and if so there is a rank on a sorted list of monsters. 
 This program is written by: Nithya Munagala*/
 
 //libraries
